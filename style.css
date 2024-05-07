@@ -166,8 +166,6 @@ img {
 @media screen and (max-width:600px) {
     body {
         overflow-x: hidden;
-        -ms-overflow-style: none;
-        scrollbar-width: none;
     }
 
     .nav ul li {
